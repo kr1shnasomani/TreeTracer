@@ -63,6 +63,7 @@ This code implements a tree segmentation and visualization pipeline using Detect
   - Applies yellow color for trees and purple for non-tree regions.
   - Saves as `mask.jpg`.
 
-#### **6. Output:** Final visualizations (`segmentation.jpg` and `mask.jpg`) are saved in the `output` directory.
+#### **6. Output:** 
+Final visualizations (`segmentation.jpg` and `mask.jpg`) are saved in the `output` directory.
 
 This pipeline integrates geospatial data handling, pre-trained instance segmentation models, and custom visualization techniques for environmental analysis tasks.
