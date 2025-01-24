@@ -31,7 +31,7 @@ The code automates tree segmentation from geospatial images using Detectron2’s
 ## Overview:
 This code implements a tree segmentation and visualization pipeline using Detectron2 and geospatial data tools. Here's a breakdown:
 
-#### **1. Setup and Configuration**
+#### **1. Setup and Configuration:**
 - **Data Directories**: Prepares directories for input TIFF files, model files, and output visualizations.
 - **URLs and Downloads**: Automates the download of:
   - Geospatial image (TIFF).
