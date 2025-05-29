@@ -1,0 +1,7 @@
+opencv-python-headless 
+torch torchvision 
+detectron2 
+rioxarray 
+intake 
+numpy 
+pillow
